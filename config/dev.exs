@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :gist_clone, GistClone.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "backend_stuff",
+  password: "blork_erlang",
   hostname: "localhost",
   database: "gist_clone_dev",
   stacktrace: true,
